@@ -1,4 +1,7 @@
 
+Descrição
+-----------
+
 O LaTeXture é uma aplicação web que complementa o editor de xml Texture. 
 Seu principal objetivo é gerar pdfs a partir de jats xml.
 
@@ -28,13 +31,14 @@ no arquivo de configuração do converso `jats2tex`.](02.jpg)
 
 
 
-As características básicas do produto são:
+Requisitos funcionais:
 
 * [Botão] Alteração mínima da interface;
 * [Metadados] Formulário para coleta de dados sobre o livro; 
 * [Integração] Integração com o conversor jats2tex
 * [Templates] Menu dropdown para escolhe de templates disponíveis;
 * [Display] Abertura do PDF.
+
 
 Foi feita uma prova de conceito que pode ser acessada no seguinte endereço:
 http://editorial.hedra.com.br:8088
