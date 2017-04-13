@@ -2,7 +2,7 @@
 O LaTeXture é uma aplicação web que complementa o editor de xml Texture. 
 Seu principal objetivo é gerar pdfs a partir de jats xml.
 
-Trata-se de um projeto de integração de quatro softwares: 
+Trata-se de um projeto de integração de cinco softwares: 
 * Texture, 
 * jats2tex,
 * um display de pdf, 
