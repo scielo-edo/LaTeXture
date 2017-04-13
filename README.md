@@ -17,7 +17,7 @@ de qualquer xml jats para tex).
 Seu fluxo mínimo supõe principalmente a integração 
 do Texture (Substance) com o conversor jats2tex. Vale lembrar que na etapa de inserção dos
 dados, o usuário terá o opção de escolher um template que está disponível na pasta \templates, no servidor, 
-ou a lista das pastas que estiverem indicadas 
+ou nas pastas que estiverem indicadas 
 no arquivo de configuração do conversor `xml2tex`.
 
 ![Neste fluxo mínimo abaixo supõe-se principalmente a integração 
